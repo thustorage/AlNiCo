@@ -1,0 +1,8 @@
+[  834.062431] test[4327]: segfault at 28 ip 0000000000401ce1 sp 00007ffe5c9fdc70 error 4 in test[400000+5000]
+[  993.185924] test[4484]: segfault at 28 ip 0000000000401ce1 sp 00007ffcca1e6400 error 4 in test[400000+5000]
+[ 1113.973525] test[4578]: segfault at 28 ip 0000000000401ce9 sp 00007ffff359dcb0 error 4 in test[400000+5000]
+[ 1192.261003] test[4644]: segfault at 28 ip 0000000000401ce9 sp 00007ffec9491e10 error 4 in test[400000+5000]
+[ 1265.202686] test[4765]: segfault at 28 ip 0000000000401ce9 sp 00007fff9d6bbef0 error 4 in test[400000+5000]
+[ 1539.609271] test[5395]: segfault at 28 ip 0000000000401d17 sp 00007ffc1bdd0c20 error 4 in test[400000+5000]
+[ 1615.124032] test[5459]: segfault at 28 ip 0000000000401d23 sp 00007fff7a7d05c0 error 4 in test[400000+5000]
+[ 1899.075155] io_peer_mem: module loaded

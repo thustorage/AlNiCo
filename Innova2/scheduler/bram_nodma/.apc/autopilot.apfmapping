@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="no_dma.cpp" path="/home/ljr140/bram_nodma/no_dma.cpp"/>
+    <originFiles name="utils.h" path="/home/ljr140/bram_nodma/utils.h"/>
+    <originFiles name="tx_scheduler.cpp" path="/home/ljr140/bram_nodma/tx_scheduler.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="main.cpp" path="/home/ljr140/bram_nodma/main.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

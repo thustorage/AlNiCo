@@ -1,0 +1,6 @@
+build/
+ATC22AE/outfile/*
+ATC22AE/scripts/fig_test.sh
+tpcc_bench-*
+ycsb_bench-*
+.vscode

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Apr  5 01:06:14 2020
+# Process ID: 20271
+# Current directory: /home/ljr140/bram_nodma/bram_nodma/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/ljr140/bram_nodma/bram_nodma/solution1/impl/ip/vivado.log
+# Journal file: /home/ljr140/bram_nodma/bram_nodma/solution1/impl/ip/vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace

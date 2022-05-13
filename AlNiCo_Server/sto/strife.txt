@@ -1,0 +1,151 @@
+init RPC HEAR
+bindCore(11)
+size = 524288
+fpga_mm = 0
+??
+[0;31mbegin connect:0[0m
+I open 1 mlx5_1 :)
+I open 0 mlx5_2 :)
+key = 134780 972451
+key = 568728 519893
+key = 968144 973997
+!!! write my from 2aaaaac00000 to 2aaaaaf60000 ------- total 360000
+[0;31mrQPNum=19772, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19773, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19774, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19775, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19776, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19777, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19778, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19779, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19780, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19781, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19782, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19768, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19783, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19769, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19784, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19770, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19785, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19771, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19786, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19772, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19787, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19773, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19788, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19789, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19774, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19790, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19775, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19791, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19776, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19792, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19777, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19793, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19778, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19794, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19795, rLid=0, rGid=192 168 4 113[0m
+[4mI am server 0, I contect S(1):T(0)[0m
+[0;31mrQPNum=19779, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19780, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19781, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19782, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19783, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19784, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19785, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19786, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19787, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19788, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19789, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19790, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[0;31mrQPNum=19791, rLid=0, rGid=192 168 4 111[0m
+[4mI am server 0, I contect S(2):T(0)[0m
+[4mI am Server(0).T(0) Connect for Server over. [0m
+Selected "default" as DB concurrency control.
+[discover_topology] Detected number of NUMA nodes: 2
+[discover_topology] CPUs on node [0]:
+    0,1,2,3,4,5,6,7,8,9,10,11,24,25,26,27,28,29,30,31,32,33,34,35
+[discover_topology] CPUs on node [1]:
+    12,13,14,15,16,17,18,19,20,21,22,23,36,37,38,39,40,41,42,43,44,45,46,47
+Checking for rdtscp support... Yes
+Checking for invariant tsc support... Yes
+Determining processor frequency...
+Info: CPU detected as Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+Info: CPU tsc frequency determined as 2.20 GHz.
+Prepopulating database...
+Prepopulation complete.
+modify runner buffer
+Generating workload...
+Done.
+Garbage collection: enabled, running every 1 ms
+16 160 170
+13 130 140
+15 150 160
+5 50 60
+18 180 190
+7 70 80
+14 140 150
+10 100 110
+6 60 70
+9 90 100
+8 80 90
+12 120 130
+2 20 30
+17 170 180
+4 40 50
+0 0 10
+19 190 192
+11 110 120
+1 10 20
+3 30 40
+bindCore(11)
+bindCore(11)
+listen
+bindCore(23)
+

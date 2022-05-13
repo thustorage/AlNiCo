@@ -1,0 +1,2 @@
+# Threads,TicToc (W1) [T1],TicToc (W1) [T2],TicToc + CU (W1) [T1],TicToc + CU (W1) [T2],TicToc (W4) [T1],TicToc (W4) [T2],TicToc + CU (W4) [T1],TicToc + CU (W4) [T2],TicToc (W0) [T1],TicToc (W0) [T2],TicToc + CU (W0) [T1],TicToc + CU (W0) [T2]
+20

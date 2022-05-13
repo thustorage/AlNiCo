@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xd:acceleratorMap xmlns:xd="http://www.xilinx.com/xidane" xd:functionName="schedule_nodma" xd:componentRef="schedule_nodma" xd:initiationInterval="x" xd:clockPeriod="4.000" xd:sequential="true" xd:hostMachine="64" xd:reset="all">
+  <xd:controlReg xd:name="control" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:type="generic_axi_lite" xd:offset="0x0"/>
+  <xd:arg xd:name="*(m0)" xd:originalName="m0" xd:direction="inout" xd:interfaceRef="m_axi_BUS_M0" xd:busTypeRef="aximm" xd:arraySize="33570816" xd:dataWidth="32" xd:bufferDirection="inout"/>
+  <xd:arg xd:name="*(m1)" xd:originalName="m1" xd:direction="inout" xd:interfaceRef="m_axi_BUS_M1" xd:busTypeRef="aximm" xd:arraySize="33570816" xd:dataWidth="32" xd:bufferDirection="in"/>
+  <xd:arg xd:name="*(hostm)" xd:originalName="hostm" xd:direction="inout" xd:interfaceRef="m_axi_BUS_HOST" xd:busTypeRef="aximm" xd:arraySize="33570816" xd:dataWidth="32" xd:bufferDirection="out"/>
+  <xd:arg xd:name="*(cdma)" xd:originalName="cdma" xd:direction="inout" xd:interfaceRef="m_axi_BUS_CDMA" xd:busTypeRef="aximm" xd:arraySize="33570816" xd:dataWidth="32" xd:bufferDirection="inout"/>
+  <xd:arg xd:name="*(cdma_buf)" xd:originalName="cdma_buf" xd:direction="inout" xd:interfaceRef="m_axi_BUS_BUF" xd:busTypeRef="aximm" xd:arraySize="33570816" xd:dataWidth="8" xd:bufferDirection="inout"/>
+  <xd:arg xd:name="con" xd:originalName="con" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x10" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="BASE_ADDR_" xd:originalName="BASE_ADDR_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x18" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="CLIENT_NUM_" xd:originalName="CLIENT_NUM_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x20" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="SLOT_NUM_" xd:originalName="SLOT_NUM_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x28" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="CORE_NUM_" xd:originalName="CORE_NUM_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x30" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="MESS_NUM_" xd:originalName="MESS_NUM_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x38" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="b_client_" xd:originalName="b_client_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x40" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="e_client_" xd:originalName="e_client_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x48" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="b_core_" xd:originalName="b_core_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x50" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="e_core_" xd:originalName="e_core_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x58" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:arg xd:name="ip_id_" xd:originalName="ip_id_" xd:direction="in" xd:interfaceRef="s_axi_AXILiteS" xd:busTypeRef="axilite" xd:offset="0x60" xd:handshakeRef="ap_none" xd:dataWidth="32"/>
+  <xd:latencyEstimates xd:best-case="undef" xd:worst-case="undef" xd:average-case="undef"/>
+  <xd:resourceEstimates xd:LUT="88294" xd:FF="62697" xd:BRAM="332" xd:DSP="28"/>
+</xd:acceleratorMap>
